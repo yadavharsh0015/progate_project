@@ -1,0 +1,35 @@
+
+
+
+
+.header-list{
+float:left;
+flex-direction:column;
+}
+.contents p{
+margin-left:200px;
+
+}
+span{
+color:yellow;}
+.contents p{
+color:red;
+font-weight:bold;
+font-size:25px;
+}
+{
+body background{
+
+height:100%;
+background-position:center;
+background-repeat:no-repeat;
+background-size:cover;
+
+}
+.footer{
+color:blue;
+}
+.footer-list p{
+background-color:yellow;
+}
+
